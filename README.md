@@ -1,6 +1,6 @@
 # SyneiOS - Image Capture & Upload App
 
-VIDEO - https://drive.google.com/file/d/15IlUySQTprYX0Ig3JDDGIE9uVyLcDz55/view?usp=drive_link
+VIDEO - https://docs.google.com/document/d/1Bq4US6T7Ja8fM0ZN4o6VDwThje2m3k-aubDM6_vDajA/edit?tab=t.0
 
 ## Overview
 SyneiOS is an iOS application built with SwiftUI that enables users to capture, store, and upload images with robust handling of duplicates, upload management, and user notifications. The app follows MVVM architecture and emphasizes clean code practices through protocol-oriented programming.
